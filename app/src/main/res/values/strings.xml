@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Gestor Personal de Tareas</string>
+
+    <!-- Prioridades y estados -->
+    <string name="prioridad_baja">Baja</string>
+    <string name="prioridad_media">Media</string>
+    <string name="prioridad_alta">Alta</string>
+    <string name="prioridad_de_tarea">Prioridad: %1$s</string>
+    <string name="estado_pendiente">Pendiente</string>
+    <string name="estado_completada">Completada</string>
+    <string name="estado_de_tarea">Estado: %1$s</string>
+
+    <!-- Listado -->
+    <string name="titulo_listado">Mis tareas</string>
+    <string name="boton_nueva_tarea">Nueva tarea</string>
+    <string name="solo_pendientes">Mostrar solo pendientes</string>
+    <string name="listado_vacio">Todavía no tienes tareas. Pulsa «Nueva tarea» para crear la primera.</string>
+    <string name="listado_sin_pendientes">No te queda ninguna tarea pendiente. Desactiva el filtro para ver las completadas.</string>
+    <string name="cargando_tareas">Cargando tareas…</string>
+    <string name="marcar_completada">Marcar «%1$s» como completada</string>
+    <string name="boton_editar">Editar</string>
+    <string name="boton_eliminar">Eliminar</string>
+    <string name="boton_compartir">Compartir</string>
+
+    <!-- Formulario -->
+    <string name="titulo_crear">Nueva tarea</string>
+    <string name="titulo_editar">Editar tarea</string>
+    <string name="campo_titulo">Título</string>
+    <string name="campo_descripcion">Descripción (opcional)</string>
+    <string name="campo_prioridad">Prioridad</string>
+    <string name="elige_prioridad">Elige una prioridad</string>
+    <string name="boton_guardar">Guardar</string>
+    <string name="boton_guardando">Guardando…</string>
+    <string name="boton_cancelar">Cancelar</string>
+    <string name="boton_volver">Volver</string>
+    <string name="error_titulo_vacio">El título no puede estar vacío.</string>
+    <string name="error_titulo_corto">El título debe tener al menos 3 caracteres.</string>
+    <string name="error_prioridad_vacia">Elige una prioridad: baja, media o alta.</string>
+
+    <!-- Eliminar -->
+    <string name="dialogo_eliminar_titulo">Eliminar tarea</string>
+    <string name="dialogo_eliminar_texto">¿Seguro que quieres eliminar «%1$s»? No se puede deshacer.</string>
+
+    <!-- Compartir -->
+    <string name="compartir_con">Compartir tarea con…</string>
+    <string name="texto_compartir">Tarea: %1$s\nDescripción: %2$s\nPrioridad: %3$s</string>
+    <string name="sin_descripcion">Sin descripción</string>
+    <string name="error_sin_aplicacion">No hay ninguna aplicación con la que compartir la tarea.</string>
+
+    <!-- Avisos -->
+    <string name="mensaje_tarea_guardada">Tarea guardada</string>
+    <string name="mensaje_tarea_eliminada">Tarea eliminada</string>
+    <string name="error_leer">No se han podido leer las tareas guardadas. Cierra y vuelve a abrir la aplicación.</string>
+    <string name="error_guardar">No se ha podido guardar la tarea. Inténtalo de nuevo.</string>
+    <string name="error_actualizar">No se ha podido cambiar el estado de la tarea.</string>
+    <string name="error_eliminar">No se ha podido eliminar la tarea.</string>
+    <string name="error_preferencia">No se ha podido guardar la preferencia.</string>
+
+    <!-- Tareas de ejemplo -->
+    <string name="titulo_ejemplos">Tareas de ejemplo</string>
+    <string name="explicacion_ejemplos">Estas tareas vienen de un servidor de prueba (JSONPlaceholder). No son tus tareas personales ni se guardan en el dispositivo.</string>
+    <string name="boton_cargar">Cargar tareas</string>
+    <string name="boton_reintentar">Reintentar</string>
+    <string name="cargando_ejemplos">Consultando el servidor…</string>
+    <string name="ejemplos_inicial">Pulsa «Cargar tareas» para pedirlas al servidor.</string>
+    <string name="ejemplos_vacio">El servidor no ha devuelto ninguna tarea.</string>
+    <string name="ejemplos_recibidas">Tareas recibidas: %1$d</string>
+    <string name="identificador">Identificador: %1$d</string>
+    <string name="error_conexion">No se ha podido conectar con el servidor. Comprueba tu conexión a Internet.</string>
+    <string name="error_servidor">El servidor ha respondido con un error (código %1$d).</string>
+    <string name="error_formato">La respuesta del servidor no tiene el formato esperado.</string>
+    <string name="error_inesperado">Ha ocurrido un error inesperado.</string>
+</resources>
