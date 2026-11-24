@@ -141,7 +141,7 @@ Tableta:
 
 ## Enlace al chat de IA
 
-PENDIENTE: pegar aquí el enlace
+https://gemini.google.com/app/fd46ada2b161ec84?is_sa=1&is_sa=1&android-min-version=301356232&ios-min-version=322.0&campaign_id=bkws&utm_source=sem&utm_medium=paid-media&utm_campaign=bkws&pt=9008&mt=8&ct=p-growth-sem-bkws&gclsrc=aw.ds&gad_source=1&gad_campaignid=20437330500&gclid=Cj0KCQiAiJXYBhD_ARIsAAx2AHkWVxKzX4hVaSh8uiFJ9auLBf7lxCYh0fI4wVRMuXN3l5242C-pjzsaAo3WEALw_wcB
 
 ## Incidencias conocidas y límites
 
